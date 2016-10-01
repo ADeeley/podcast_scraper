@@ -3,6 +3,10 @@
 # by Adam Deeley
 # ------------------------------
 
+# To do- 
+# - Add the for loop to iterate over links 
+# - remove hard coded variables 
+
 import urllib.request
 import shutil
 import os
